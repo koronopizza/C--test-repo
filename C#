@@ -15,11 +15,11 @@ namespace SoloLearn
 
             if(attendance >= 95 && avgScore >= 80)
             {
-              Console.WriteLine("Accepted");
+              Console.WriteLine("Accepted! your great!");
             }
             else
             {
-               ConsoleWriteLine("Denied");
+               ConsoleWriteLine("Denied! boo you suck!!");
             }           
         }
     }
